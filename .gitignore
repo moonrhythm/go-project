@@ -1,0 +1,8 @@
+.DS_Store
+.idea/
+.vscode/
+*.tmp
+*.log
+node_modules/
+vendor/
+.goreload

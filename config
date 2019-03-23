@@ -1,0 +1,3 @@
+db_url: postgres://localhost/postgres?sslmode=disable
+db_max_open_conns: 2
+db_max_idle_conns: 2
